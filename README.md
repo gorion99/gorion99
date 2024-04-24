@@ -1,4 +1,4 @@
-- 👋 Hey, my name is @gorion99 and I am currently an IT Programming student
+- 👋 Hey, my name is Gavin and I am currently an IT Programming student
 - 👀 I’m interested in coding (obviously) but more specifically React, Java and Kotlin
 - 🌱 I’m currently learning how to create full stack projects, building mobile apps, and how to create my own game
 - 📫 How to reach me: here on github or through my email gavinali27@gmail.com
